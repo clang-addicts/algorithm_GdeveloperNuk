@@ -5,3 +5,5 @@ C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\bin\Debug\CS_Study.exe
 C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\bin\Debug\CS_Study.pdb
 C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\obj\Debug\CS_Study.exe
 C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\obj\Debug\CS_Study.pdb
+C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\obj\Debug\CS_Study.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\obj\Debug\CS_Study.csproj.SuggestedBindingRedirects.cache
