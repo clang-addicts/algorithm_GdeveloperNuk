@@ -1,4 +1,3 @@
-C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\obj\Debug\CS_Study.csprojAssemblyReference.cache
 C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\obj\Debug\CS_Study.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\bin\Debug\CS_Study.exe.config
 C:\Users\USER\Desktop\C#Algorithm\CS_Study\CS_Study\bin\Debug\CS_Study.exe
