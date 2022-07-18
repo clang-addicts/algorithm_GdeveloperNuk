@@ -27,7 +27,7 @@ namespace CS_Study
             {
                 h -= 24;
             }
-            Console.WriteLine("{0} {1}", h, m);
+            Console.WriteLine("{0} {1}", h, m);//
         }
     }
 }
